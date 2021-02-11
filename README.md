@@ -6,4 +6,4 @@ O jogo tem uma mecânica simples onde o objetivo é coletar o máximo de "fruits
 
 //Objetivo do Código  
 
-Recriar o código original e criar novas features para o game com o conhecimento adquirido durante a recriação do Código.
+Recriar o código original e criar novas features para o game com o conhecimento adquirido durante o processo.
